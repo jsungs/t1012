@@ -1,0 +1,11 @@
+<html>
+<head >
+<title>연습</title>
+</head>
+<body>
+	<img src="test.png" alt="그래프">
+</body>
+<foot>
+</foot>
+
+</html>
